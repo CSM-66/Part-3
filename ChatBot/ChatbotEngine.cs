@@ -128,6 +128,8 @@ namespace ChatBOT.ChatBot
             ["how to avoid scams"] = "scam",
             ["i think i was scammed"] = "scam",
             ["someone is scamming me"] = "scam",
+            ["what is a firewall"] = "firewall",
+            ["how does a firewall work"] = "firewall",
         };
         //Sentiment keywords
         private readonly Dictionary<string, string> _sentimentPrefixes = new()
